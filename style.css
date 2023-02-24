@@ -219,7 +219,7 @@ html {
 .gallery-link:hover::after{
  width: 90%;
 }
-/*
+
 .food-img{
  width: 24vw;
  height: 15vw;
@@ -239,7 +239,7 @@ html {
  overflow: hidden;
  transition: width .3s;
 }
-*/
+/*
 .gallery-link:hover .food-name{
  width: 100%;
  transition: width 1.5s 0.5s;
