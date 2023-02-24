@@ -29,11 +29,11 @@ html {
  box-shadow: .2rem .2rem .2rem #000;
  transition: top .4s;
 }
-/*
+
 .navbar.change {
  top: 0;
 }
-*/
+/*
 .navbar-link {
  color: #aaa;
  margin: .4rem;
@@ -44,7 +44,7 @@ html {
  opacity: 100;
  transition: color .3s;
 }
-
+*/
 .navbar-link i {
  font-size: 7rem;
 }
