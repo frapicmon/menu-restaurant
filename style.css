@@ -15,7 +15,7 @@ html {
 }
 
 /* Navbar*/
-
+/*
 .navbar{
  width: 100%;
  height: 14rem;
@@ -48,14 +48,14 @@ html {
 .navbar-link i {
  font-size: 7rem;
 }
-/*
+
 .navbar-link span {
  font-size: 2.5rem;
  font-weight: 900;
  letter-spacing: .5rem;
  margin-top: .5rem;
 }
-*/
+
 .navbar-link:hover {
  color: #fff;
 }
