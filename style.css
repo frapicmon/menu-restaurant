@@ -15,7 +15,7 @@ html {
 }
 
 /* Navbar*/
-
+/*
 .navbar{
  width: 100%;
  height: 14rem;
@@ -29,7 +29,7 @@ html {
  box-shadow: .2rem .2rem .2rem #000;
  transition: top .4s;
 }
-
+*/
 .navbar.change {
  top: 0;
 }
